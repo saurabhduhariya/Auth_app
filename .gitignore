@@ -1,4 +1,6 @@
 # Logs
+/backend/node_modules
+/frontend/node_modules
 logs
 *.log
 npm-debug.log*
