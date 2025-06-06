@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:.gitignore
 # Logs
 /backend/node_modules
 /frontend/node_modules
@@ -8,19 +9,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+========
+>>>>>>>> e34a281d4fe4108fb8206b6e937adcc560eb0698:frontend/.gitignore
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
