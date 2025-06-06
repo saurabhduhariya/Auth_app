@@ -30,7 +30,7 @@ export default function Signup() {
             return handleError('all fields are required')
         }
         try{
-            const url = 'http://localhost:8080/auth/signup';
+            const url = 'https://auth-app-api-1.vercel.app/auth/signup';
             const response = await fetch(url, {
                 method: 'POST',
                 headers:{
